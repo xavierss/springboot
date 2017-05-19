@@ -1,2 +1,1 @@
-# springboot
-기본설정
+# SpringBoot 기본
